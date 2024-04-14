@@ -1,0 +1,11 @@
+{
+  "name": "TikTok Cat",
+  "symbol": "TTCSOL",
+  "description": "A meme-inspired cryptocurrency that brings together the viral culture of TikTok riding the wave of feline fun with the world of finance. With its playful theme and vibrant community, TikTok Cat aims to provide a fun and engaging experience for users while offering opportunities for financial growth.",
+  "image": "https://raw.githubusercontent.com/XCoinProjectX/TikTokCat/main/tiktokcat.png",
+  "extensions": {
+    "website": "https://www.tiktokcat.meme",
+    "twitter": "https://twitter.com/TikTokCatSol",
+    "telegram": "https://t.me/TikTokCatSol"
+  }
+}
