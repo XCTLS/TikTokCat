@@ -9,5 +9,8 @@
     "telegram": "https://t.me/TikTokCatSol"
 	},
     "tags": ["Meme","TikTok","Cat","Cats"]
-  }
+   "creator": {
+      "name": "X Coin Project",
+      "website": "https://t.me/TheXCoinProject"
+    }
 }
